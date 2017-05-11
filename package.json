@@ -1,0 +1,47 @@
+{
+  "name": "component-ko-example",
+  "description": "Website Template",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "gulp run"
+  },
+  "author": "Ryan Carniato",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "backbone-http": "*",
+    "backout": "0.1.x",
+    "coffee-loader": "*",
+    "component-register": "0.2.x",
+    "component-register-ko": "0.2.x",
+    "component-register-ko-loader": "0.1.x",
+    "css-loader": "*",
+    "file-loader": "*",
+    "foreman": "*",
+    "gulp": "*",
+    "gulp-shell": "*",
+    "gulp-util": "*",
+    "jquery": "~2.1.4",
+    "knockout": "*",
+    "nodemon": "*",
+    "pug": "^2.0.0-rc.1",
+    "pug-html-loader": "^1.1.4",
+    "style-loader": "*",
+    "stylus": "*",
+    "stylus-loader": "*",
+    "superagent": "*",
+    "to-string-loader": "*",
+    "url-loader": "*",
+    "webcomponent-router": "0.1.x",
+    "webpack": "*"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "backbone": "1.2.x",
+    "backbone-rest": "*",
+    "backbone-orm": "*",
+    "coffee-script": "*",
+    "moment": "*",
+    "express": "*"
+  }
+}
